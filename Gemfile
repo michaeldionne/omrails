@@ -7,6 +7,7 @@ gem 'jquery-rails'
 gem 'bootstrap-sass', '~> 2.2.2.0'
 gem 'devise', '~> 3.0.0.rc'
 
+
 group :production do
 	gem 'pg'
 end
