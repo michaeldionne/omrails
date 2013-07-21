@@ -10,6 +10,9 @@ gem 'simple_form', '~> 3.0.0.rc'
 gem "paperclip", "~> 3.0"
 
 gem 'protected_attributes'
+gem 'rails-observers'
+gem 'actionpack-page_caching'
+gem 'actionpack-action_caching'
 
 
 
