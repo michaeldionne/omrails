@@ -9,6 +9,7 @@ gem 'devise', '~> 3.0.0.rc'
 gem 'simple_form', '~> 3.0.0.rc'
 gem "paperclip", "~> 3.0"
 gem 'aws-sdk'
+gem 'faker', '1.1.2'
 
 gem 'protected_attributes'
 gem 'rails-observers'
